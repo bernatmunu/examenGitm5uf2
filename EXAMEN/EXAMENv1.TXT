@@ -1,0 +1,8 @@
+Per crear carpetes fem servir el mkdir.
+Per crear arxius el nano.
+Per mourens per les carpetes i fitxers els cd.
+Git init.
+Git add .
+Git commit -m "aqui escribim el que veurem al git"
+Git remote add origin "aqui la url del nostre git"
+Git push origin master.
