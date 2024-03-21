@@ -1,0 +1,9 @@
+git branch inprogress
+git add .
+git commit -m "nova branca"
+git push origin inprogress
+fem tots els canvis al visual, afegim autor i fem author.html on posem nom i foto de posta de sol.
+Ara anem a examen fem el nano de la v6.
+git add . 
+git commit -m "canvis visual i v6"
+git push origin inprogress
