@@ -1,0 +1,11 @@
+git checkout master
+git merge inprogress
+git push origin master
+git branch -d inprogress
+git push origin --delete inprogress
+fem el nano del v8 afegim tota aquesta info
+git add .
+git status -s
+git commit -m "branques fusionades i v8"
+git push origin master
+
