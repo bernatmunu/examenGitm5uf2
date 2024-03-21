@@ -1,0 +1,6 @@
+entrem al visual i fem els canvis demanats.
+nano creem aquest arxiu
+git add .
+git status -s
+git commit -m "canvis visual i v4"
+git push origin master
