@@ -1,0 +1,8 @@
+Primer hem posat el mateix nom comercial al peu de pagina.
+He traduit dos textos on contacte perque no em dona temps a tot.
+He posat el meu mail.
+ara fem el de sempre
+git add .
+git status -s
+git commit -m "canvis peu/idioma/contacte"
+git push origin master
