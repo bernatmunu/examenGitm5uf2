@@ -1,0 +1,6 @@
+nano LICENSE
+ens movem amb els cd entre carpetes i arxius
+ens situem a EXAMEN i fem nano per crear aquest arxiu
+git add .
+git commit -m "versio2"
+git push origin master
