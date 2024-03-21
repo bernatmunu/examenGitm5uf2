@@ -1,0 +1,6 @@
+fem els canvis al visual
+git add .
+git status -s
+git commit -m "canvis visual pels links i v7"
+git push origin inprogress
+
