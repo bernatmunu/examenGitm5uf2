@@ -1,0 +1,6 @@
+Primer mhe baixat l'arxiu, le descomprimit i afegit a la carpeta.
+he entrar a la carpeta examen i nano EXAMENv3.TXT.
+Ara farem un git add .
+Sempre faig un git status -s per comprovar que abans no ho he dit, pero veuras que ho faig sempre a la grabacio.
+fem el git commit -m ""
+git push origin master.
